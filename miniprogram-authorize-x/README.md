@@ -12,7 +12,8 @@
 
 ``` bash
 npm install wxMiniProgram-auth-x -D
-注：并在开发者工具中，选择工具 => 构建npm
+
+// 注：并在开发者工具中，选择工具 => 构建npm
 ```
 ### Example
 
