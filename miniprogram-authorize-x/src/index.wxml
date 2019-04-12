@@ -1,0 +1,15 @@
+<!--  微信授权窗口 -->
+<view class="impower_md" wx:if="{{!hasUserInfo}}" >
+  <view class="impower_box">
+      <view class="impower_title">
+          微信授权
+      </view>
+      <view class="impower_explain">
+        我们申请获得以下权限:
+      </view>
+      <view class="impower_tip">
+          • 	获得您的公开信息（头像、昵称等）
+      </view>
+      <button class="impower_btn" open-type="getUserInfo" bindgetuserinfo="getUserInfoFn"> 同意授权 </button>
+  </view>
+</view>

@@ -1,0 +1,57 @@
+/* 微信授权 */
+.impower_md{
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.7)
+}
+.impower_box{
+  width: 560rpx;
+  background: #fff;
+  margin: 155rpx auto;
+  border-radius: 20rpx;
+  padding: 50rpx 40rpx;
+  position: relative;
+  text-align: center;
+}
+.impower_title{
+  font-size: 36rpx;
+  font-weight: 500;
+  color: #3E3E3E;
+}
+.impower_explain{
+  font-size: 32rpx;
+  color: #3E3E3E;
+  font-weight: 500;
+  width: 478rpx;
+  border-bottom: 1rpx solid #d8d8d8;
+  margin: 0 auto;
+  padding-bottom: 20rpx;
+  margin-top: 100rpx;
+}
+.impower_tip{
+  color: #666666;
+  font-size: 30rpx;
+  margin-top: 20rpx;
+}
+.impower_btn{
+  margin-top: 46rpx;
+  text-align: center;
+  line-height: 90rpx;
+  color: #fff;
+  font-weight: 500;
+  /* background: #FF4141; */
+  background: #6CA6CD;
+  width: 560rpx;
+  height: 90rpx;
+  border-radius: 16rpx;
+}
+.impower_close{
+  position: absolute;
+  left: 290rpx;
+  bottom: -280rpx;
+  width: 60rpx;
+  height: 60rpx;
+}
