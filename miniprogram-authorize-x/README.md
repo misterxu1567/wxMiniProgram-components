@@ -64,7 +64,7 @@ Page({
 | getUnionid                  | `Boolean`   | `false`      | 是否需要获取openid 或者 unionid，注意：apiUrl必须为true才可以             |
 | authorizeSuccessCFn         | `Function`  |              | 授权成功回调                      |
 | authorizeFailCFn            | `Function`  |              | 授权失败回调                      |
-
+</br>
 ## 其他说明
 1、微信小程序获取openid 不需要用户授权，wx.login获取code之后，可以直接去腾讯服务器换取openid
 2、微信小程序获取unionid 需要用户授权，授权之后获取 密钥encryptedData 和 iv，然后去腾讯服务器换取 unionid
