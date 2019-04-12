@@ -11,7 +11,7 @@
 ### NPM
 
 ``` bash
-npm install wxMiniProgram-auth-x -D
+npm install miniprogram-authorize-x -save
 
 // 注：并在开发者工具中，选择工具 => 构建npm
 ```
@@ -20,7 +20,7 @@ npm install wxMiniProgram-auth-x -D
 ```
 // 在.json内
 "usingComponents": {
-  "authorize": "wxMiniProgram-auth-x"
+  "authorize": "miniprogram-authorize-x"
 }
 
 // 在.wxml内
