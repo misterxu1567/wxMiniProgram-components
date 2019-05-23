@@ -1,6 +1,6 @@
 > 小程序自定义时间选择器组件
 
-**开发背景：原生时间组件不能满足UI设计需求，及开发需求**
+**开发背景：原生时间组件不能满足UI设计需求，及开发需求，此时间组件可以在屏幕的任意位置，比如浮动在中间，某个输入框的下方，而不必像原生那样，必须固定在屏幕的底部**
 <br/><br/>
 
 <img src="https://raw.githubusercontent.com/misterxu1567/img-static/master/time.png" alt="时间组件预览" width="200">
