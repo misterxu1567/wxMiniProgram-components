@@ -1,0 +1,20 @@
+<view class="customPicker">
+    <picker-view class="dateLine" indicator-style="height: 60rpx;" value="{{tempYearPos}}" bindchange="yearOnChange">
+        <picker-view-column>
+            <view wx:for="{{years}}" wx:key="*this" class="unit">{{item}}年</view>
+        </picker-view-column>
+    </picker-view>
+    <picker-view class="dateLine" indicator-style="height: 60rpx;" value="{{tempMonthPos}}" bindchange="monthOnChange">
+        <picker-view-column>
+            <view wx:for="{{months}}" wx:key="*this" class="unit">{{item}}月</view>
+        </picker-view-column>
+    </picker-view>
+    <picker-view class="dateLine" indicator-style="height: 60rpx;" value="{{tempDayPos}}" bindchange="dayOnChange">
+        <picker-view-column>
+            <view wx:for="{{days}}" wx:key="*this" class="unit">{{item}}日</view>
+        </picker-view-column>
+    </picker-view>
+</view>
+
+
+

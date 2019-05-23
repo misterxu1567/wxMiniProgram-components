@@ -1,0 +1,28 @@
+{
+  "name": "miniprogram-date-picker-x",
+  "version": "1.0.0",
+  "description": "微信小程序自定义时间选择器组件",
+  "miniprogram": "miniprogram_dist",
+  "main": "miniprogram_dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/misterxu1567/wxMiniProgram-components/tree/master/miniprogram-date-picker-x"
+  },
+  "bugs": {
+    "url": "https://github.com/misterxu1567/wxMiniProgram-components/issues"
+  },
+  "keywords": [
+    "miniprogram",
+    "wxMiniProgram",
+    "wxMiniProgramDate",
+    "wxMiniProgramDatePicker",
+    "miniprogram-date-picker-x"
+  ],
+  "author": "misterXu",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {}
+}

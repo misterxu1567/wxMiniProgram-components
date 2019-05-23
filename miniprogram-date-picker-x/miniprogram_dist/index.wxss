@@ -1,0 +1,35 @@
+.customPicker{
+  display: flex;
+  margin:0 auto;
+  overflow: hidden;
+  box-sizing: border-box;
+  background: #F9F9F9;
+}
+.dateLine{
+  flex: 1;
+  height: 280rpx;
+  text-align: center;
+  width: 33.33%;
+}
+.unit{
+  font-size: 28rpx;
+  height: 30px;
+  line-height: 30px;
+}
+/* 选择器中间选中框的样式 */
+.indicatorStyle{
+  /* background: rgba(0,0,0,0) */
+}
+
+/* 蒙层样式 */
+.maskStyle{
+  /* background:  rgba(0,0,0,0); */
+}
+
+
+
+
+
+
+
+
