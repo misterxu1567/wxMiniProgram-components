@@ -5,7 +5,7 @@
 ### NPM
 
 ``` bash
-npm install miniProgram-modal-x -save
+npm install miniprogram-modal-x -save
 
 // 注：并在开发者工具中，选择工具 => 构建npm
 ```
