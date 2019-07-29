@@ -1,0 +1,11 @@
+<view class='customModal' wx:if="{{modal.status}}">
+    <view class="blackBg"></view>
+    <view class='modal'>
+      <view class='title'>{{modal.title}}</view>
+      <view class='desc'>{{modal.content}}</view>
+      <view class='btn'>
+         <view data-type="cancel" bindtap="ctrl" class='cancel' style='color: {{modal.cancelColor}}'>{{modal.cancelText || '取消'}}</view>
+         <view data-type="sure" bindtap="ctrl" class='sure'>{{modal.confirmText || '确定'}}</view>
+      </view>
+    </view>
+</view>

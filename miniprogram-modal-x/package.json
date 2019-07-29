@@ -1,0 +1,28 @@
+{
+  "name": "miniprogram-modal-x",
+  "version": "1.0.0",
+  "description": "微信小程序对话框组件",
+  "miniprogram": "miniprogram_dist",
+  "main": "miniprogram_dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/misterxu1567/wxMiniProgram-components/tree/master/miniprogram-modal-x"
+  },
+  "bugs": {
+    "url": "https://github.com/misterxu1567/wxMiniProgram-components/issues"
+  },
+  "keywords": [
+    "miniprogram",
+    "wxMiniProgram",
+    "wxMiniProgramModal",
+    "wxMiniProgram-modal",
+    "miniProgram-modal-x"
+  ],
+  "author": "misterXu",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {}
+}
