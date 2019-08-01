@@ -14,7 +14,7 @@ npm install miniprogram-modal-x -save
 ```
 // 在当前页面的.json内注册为局部的（或者在app.json内，注册为全局的）
 "usingComponents": {
-  "customModal": "miniProgram-modal-x"
+  "customModal": "miniprogram-modal-x"
 }
 
 // 在.wxml内

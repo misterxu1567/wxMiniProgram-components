@@ -1,6 +1,6 @@
 {
   "name": "miniprogram-modal-x",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "微信小程序对话框组件",
   "miniprogram": "miniprogram_dist",
   "main": "miniprogram_dist/index.js",
